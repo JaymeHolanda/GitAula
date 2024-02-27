@@ -55,7 +55,7 @@ Crie um repositorio com o mesmo nome da pasta
 
 ==> git push origin main (Não precisa mais do -u)
 
-// // // // // //// // Criando a  BRANCH // //// // //// // //// // //
+// // // // // //// // Criando a BRANCH // //// // //// // //// // //
 
 git checkout -b "_Nome_" (criamos uma nova branch) 
 
