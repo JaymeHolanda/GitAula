@@ -22,3 +22,14 @@ Copie o html
 
 git pull
 
+
+
+////// FORK  ///////
+
+No GitHUb ao clicar em um repositorio de terceiro, é possivel clicar em um botão chamado Fork (ao lado de favoritos)
+
+Esse botão clona o repositorio do terceiro para seu repositorio pessoal.
+
+(Caso alguém faça a alteração do Fork, e o terceiro querer adicionar basta usar o : )
+
+==> git pull request
