@@ -44,12 +44,17 @@ Ex: git add Readme.md (adicionar o arquivo)
 Crie um repositorio com o mesmo nome da pasta 
 
 
-==> git remote add origin _linkrepositorio_
+==> git remote add origin _linkrepositorio_ (linkado uma única vez)
 
 (remote, coneção / add para adicionar / origin para o nome no github / link)
 
 
 
 ==> git push -u origin main
+
+
+// // // // // //// PUSH APÓS PRIMEIRO PUSH  // //// // //// // //
+
+==> git push origin main (Não precisa mais do -u)
 
 
