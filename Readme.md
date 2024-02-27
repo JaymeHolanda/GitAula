@@ -15,7 +15,6 @@ Projeto que ensina a usar o Github
 // // // // // //// // GIT ADD // //// // //// // //// // //
 
 
-
 ==> git add _nomeFile_ (Manda os arquivos para areas de stading ("chama dos fundos para ser empurrado para o palco (commit)")). 
 ==> git add . (adiciona todos os arquivos para stading)
 
@@ -23,7 +22,6 @@ Ex: git add Readme.md (adicionar o arquivo)
 
 
 ==> git status 
-
 
 
 
@@ -56,5 +54,11 @@ Crie um repositorio com o mesmo nome da pasta
 // // // // // //// PUSH APÓS PRIMEIRO PUSH  // //// // //// // //
 
 ==> git push origin main (Não precisa mais do -u)
+
+// // // // // //// // Criando a  BRANCH // //// // //// // //// // //
+
+git checkout -b "_Nome_" (criamos uma nova branch) 
+
+com isso saímos da principal que estavamos (main/master) para a nova branch criada (_Nome_)
 
 
