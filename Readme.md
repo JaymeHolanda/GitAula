@@ -34,6 +34,9 @@ Ex: git add Readme.md (adicionar o arquivo)
 ==> git branch -M "main" (Muda para main, apenas questões visuais.)
 
 
+// // // // // ////  GIT COMMIT  // //// // //// // //
+
+==> git commit -m "_nome do Commit_"  (Aqui já criamos o repositorio local e damos o commit para o github)
 
 
 // // // // // //// INDO AO GITHUB  // //// // //// // //
