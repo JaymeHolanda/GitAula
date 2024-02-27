@@ -1,4 +1,4 @@
-// // // // // ////  INICIANDO  // //// // //// // //
+// // // // // //// O INICIANDO  // //// // //// // //
 
 Projeto que ensina a usar o Github
 
@@ -17,16 +17,17 @@ Projeto que ensina a usar o Github
 
 
 ==> git add _nomeFile_ (Manda os arquivos para areas de stading ("chama dos fundos para ser empurrado para o palco (commit)")). 
+==> git add . (adiciona todos os arquivos para stading)
 
+Ex: git add Readme.md (adicionar o arquivo)
 
-Ex: git add Readme.md
 
 ==> git status 
 
 
 
 
-// // // // // ////  NOVA NOMECLATURA MASTER PARA MAIN  // //// // //// // //
+// // // // // ////  NOMECLATURA MASTER PARA MAIN  // //// // //// // //
 
 
 
@@ -35,7 +36,7 @@ Ex: git add Readme.md
 
 
 
-// // // // // //// GITHUB  // //// // //// // //
+// // // // // //// INDO AO GITHUB  // //// // //// // //
 
 Crie um repositorio com o mesmo nome da pasta 
 
@@ -47,3 +48,5 @@ Crie um repositorio com o mesmo nome da pasta
 
 
 ==> git push -u origin main
+
+
