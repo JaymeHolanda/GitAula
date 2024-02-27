@@ -2,7 +2,7 @@
 
 Vá no repositorio do git hub 
 
-clique no botão verde <Code>
+clique no botão verde _Code__
 
 Copie o html 
 

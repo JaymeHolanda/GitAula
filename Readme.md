@@ -65,7 +65,7 @@ com isso saímos da principal que estavamos (main/master) para a nova branch cri
 
 Vá no repositorio do git hub 
 
-clique no botão verde <Code>
+clique no botão verde _code_
 
 Copie o html 
 
