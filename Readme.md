@@ -2,7 +2,7 @@
 
 Projeto que ensina a usar o Github
 
-==> cd _Diretorio_ (seleciona o diretorio do que será feito)
+==> cd _Diretorio_ (seleciona o diretorio e a pasta)
 
 ==> mkdir _Diretorio_ (Em caso de conflito com a pasta)
 
@@ -61,4 +61,13 @@ git checkout -b "_Nome_" (criamos uma nova branch)
 
 com isso saímos da principal que estavamos (main/master) para a nova branch criada (_Nome_)
 
+////// CLONANDO UM REPOSITORIO ///////
+
+Vá no repositorio do git hub 
+
+clique no botão verde <Code>
+
+Copie o html 
+
+==> git clone _linkDoRepositorio_
 
